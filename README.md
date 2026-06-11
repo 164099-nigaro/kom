@@ -1,4 +1,4 @@
 # kom
 .....
 hi<Br>
-program(101chrom.py)
+[program](101chrom.py)
